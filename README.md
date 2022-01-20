@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gorkemz03
+- 👋 Hi, I’m Gorkem Cetin
 - 👀 I’m interested in software and sport activities
 - 🌱 I’m currently learning C software language
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me gorkemcetinn55@gmail.com
 
 <!---
