@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gorkem Cetin
 - 👀 I’m interested in software and sport activities
-- 🌱 I’m currently learning C software language
+- 🌱 I’m currently learning C,C++,Python software language
 
 - 📫 How to reach me gorkemcetinn55@gmail.com
 
