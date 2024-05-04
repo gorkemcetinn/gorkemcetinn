@@ -10,7 +10,7 @@
 - Operating Systems: Windows
 - Microsoft Office: Word, Excel, PowerPoint, Outlook
 
-🌱 Currently Learning: Flutter
+🌱 Currently Learning: Flutter, Deep Learning
 
 💡 Interests:
 - Mobile Application Development
@@ -36,7 +36,7 @@ I also contribute to open source projects on GitHub and enjoy contributing to th
 - İşletim Sistemleri: Windows
 - Microsoft Office: Word, Excel, PowerPoint, Outlook
 
-🌱 Şu Anda Öğrenmekte Olduğum: Flutter
+🌱 Şu Anda Öğrenmekte Olduğum: Flutter, Deep Learning
 
 💡 İlgi Alanlarım:
 - Mobil Uygulama Geliştirme
