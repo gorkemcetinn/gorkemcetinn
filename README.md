@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Görkem Çetin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Enthusiast;Full+Stack+Developer;Machine+Learning+Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Enthusiast;Machine+Learning+Researcher" />
 </p>
 
 ---
