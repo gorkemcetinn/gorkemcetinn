@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - 🎓 **Software Engineer & AI Enthusiast**
-- 🤖 **LLM, LangChain, LangGraph, RAG, Introspective Agent**
+- 🤖 **LLM, LangChain, LangGraph, RAG**
 - 📱 **Mobile App Developer (Flutter, Kotlin, Java)**
 - 💡 Passionate about **AI-driven Database Management & Autonomous Systems**
 
@@ -25,7 +25,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gorkemcetinn&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemcetinn&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -44,9 +43,3 @@
   </a>
 </p>
 
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gorkemcetin55/gorkemcetin55/main/github-contribution-grid-snake.svg" />
-</p>
