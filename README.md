@@ -24,8 +24,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gorkemcetin55&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemcetin55&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gorkemcetinn&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemcetinn&theme=tokyonight" width="48%" />
 </p>
 
 ---
