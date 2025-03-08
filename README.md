@@ -9,7 +9,7 @@
 ### 🚀 About Me
 - 🎓 **Software Engineer & AI Enthusiast**
 - 🤖 **LLM, LangChain, LangGraph, RAG**
-- 📱 **Mobile App Developer (Flutter, Kotlin, Java)**
+- 📱 **Mobile App Developer (Flutter)**
 - 💡 Passionate about **AI-driven Database Management & Autonomous Systems**
 
 ### 🛠️ Tech Stack
