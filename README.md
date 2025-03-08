@@ -30,18 +30,7 @@
 
 ---
 
-### 🚀 Latest Projects
-- **[FlightSense](https://github.com/gorkemcetin55/FlightSense)** ✈️ AI-powered flight information system
-- **[GaleriProject](https://github.com/gorkemcetin55/GaleriProject)** 🚗 AI-driven vehicle management system
-
----
-
 ### 🌍 Connect with Me
-📧 **Email:** gorkemcetinn55@gmail.com  
-🔗 **LinkedIn:** [Görkem Çetin](https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7etin-8b5939227/)  
-📂 **GitHub:** [gorkemcetin55](https://github.com/gorkemcetin55)
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7etin-8b5939227/" target="_blank">
