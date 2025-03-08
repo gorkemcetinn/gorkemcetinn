@@ -44,5 +44,20 @@
 ---
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7etin-8b5939227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gorkemcetinn55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/gorkemcetin55">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/gorkemcetin55/gorkemcetin55/main/github-contribution-grid-snake.svg" />
 </p>
