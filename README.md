@@ -18,6 +18,7 @@
 **Database:** SQL, MongoDB, Firebase  
 **AI & ML:** TensorFlow, Pandas, NumPy, Matplotlib  
 **LLM & AI Tools:** LangChain, LangGraph, RAG, Introspective Agent, React Agent
+
 **Tools:** Git, VS Code, Eclipse, Android Studio, Jupyter  
 
 ---
