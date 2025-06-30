@@ -33,7 +33,7 @@
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="[[https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7etin-8b5939227/](https://www.linkedin.com/in/gorkemcetinn/)](https://www.linkedin.com/in/gorkemcetinn/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/g%C3%B6rkem-%C3%A7etin-8b5939227/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gorkemcetinn55@gmail.com">
